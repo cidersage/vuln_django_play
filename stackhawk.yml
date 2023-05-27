@@ -8,7 +8,7 @@ app:
   # We will never use this contact for marketing purposes.
   #contactEmail: scott.gerlach@sterkherk.kerm # (optional)
   # The risk level of the app
-  riskLevel: MEDIUM # (optional)
+  #riskLevel: MEDIUM # (optional)
   # The type of data sensitivity the web app maintains
   #appDataType: PII # (optional)
 
